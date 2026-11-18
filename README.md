@@ -1,4 +1,4 @@
-# CNTT1_KyNangPromtingVoiAI_Session05_BTH1
+# Lập kế hoạch tài chính cá nhân bằng Chain-of-Thought
 ## PROMPT
 Bạn là chuyên gia tư vấn tài chính cá nhân, có khả năng phân tích dòng tiền và lập ngân sách cho người có thu nhập biến động.
 
